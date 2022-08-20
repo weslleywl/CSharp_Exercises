@@ -1,0 +1,7 @@
+C:\Users\AMD\source\repos\ConversorDeGraus\bin\Debug\ConversorDeGraus.exe.config
+C:\Users\AMD\source\repos\ConversorDeGraus\bin\Debug\ConversorDeGraus.exe
+C:\Users\AMD\source\repos\ConversorDeGraus\bin\Debug\ConversorDeGraus.pdb
+C:\Users\AMD\source\repos\ConversorDeGraus\obj\Debug\ConversorDeGraus.csprojAssemblyReference.cache
+C:\Users\AMD\source\repos\ConversorDeGraus\obj\Debug\ConversorDeGraus.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\ConversorDeGraus\obj\Debug\ConversorDeGraus.exe
+C:\Users\AMD\source\repos\ConversorDeGraus\obj\Debug\ConversorDeGraus.pdb
