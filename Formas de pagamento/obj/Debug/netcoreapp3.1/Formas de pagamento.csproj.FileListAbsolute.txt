@@ -1,0 +1,13 @@
+E:\visualstudios\Formas de pagamento\bin\Debug\netcoreapp3.1\Formas de pagamento.exe
+E:\visualstudios\Formas de pagamento\bin\Debug\netcoreapp3.1\Formas de pagamento.deps.json
+E:\visualstudios\Formas de pagamento\bin\Debug\netcoreapp3.1\Formas de pagamento.runtimeconfig.json
+E:\visualstudios\Formas de pagamento\bin\Debug\netcoreapp3.1\Formas de pagamento.runtimeconfig.dev.json
+E:\visualstudios\Formas de pagamento\bin\Debug\netcoreapp3.1\Formas de pagamento.dll
+E:\visualstudios\Formas de pagamento\bin\Debug\netcoreapp3.1\Formas de pagamento.pdb
+E:\visualstudios\Formas de pagamento\obj\Debug\netcoreapp3.1\Formas de pagamento.csprojAssemblyReference.cache
+E:\visualstudios\Formas de pagamento\obj\Debug\netcoreapp3.1\Formas de pagamento.AssemblyInfoInputs.cache
+E:\visualstudios\Formas de pagamento\obj\Debug\netcoreapp3.1\Formas de pagamento.AssemblyInfo.cs
+E:\visualstudios\Formas de pagamento\obj\Debug\netcoreapp3.1\Formas de pagamento.csproj.CoreCompileInputs.cache
+E:\visualstudios\Formas de pagamento\obj\Debug\netcoreapp3.1\Formas de pagamento.dll
+E:\visualstudios\Formas de pagamento\obj\Debug\netcoreapp3.1\Formas de pagamento.pdb
+E:\visualstudios\Formas de pagamento\obj\Debug\netcoreapp3.1\Formas de pagamento.genruntimeconfig.cache

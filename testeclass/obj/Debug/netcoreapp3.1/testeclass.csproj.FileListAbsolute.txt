@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\bin\Debug\netcoreapp3.1\testeclass.exe
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\bin\Debug\netcoreapp3.1\testeclass.deps.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\bin\Debug\netcoreapp3.1\testeclass.runtimeconfig.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\bin\Debug\netcoreapp3.1\testeclass.runtimeconfig.dev.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\bin\Debug\netcoreapp3.1\testeclass.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\bin\Debug\netcoreapp3.1\testeclass.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\obj\Debug\netcoreapp3.1\testeclass.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\obj\Debug\netcoreapp3.1\testeclass.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\obj\Debug\netcoreapp3.1\testeclass.AssemblyInfo.cs
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\obj\Debug\netcoreapp3.1\testeclass.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\obj\Debug\netcoreapp3.1\testeclass.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\obj\Debug\netcoreapp3.1\testeclass.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\testeclass\obj\Debug\netcoreapp3.1\testeclass.genruntimeconfig.cache

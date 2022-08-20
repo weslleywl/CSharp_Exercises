@@ -1,0 +1,7 @@
+E:\visualstudios\relacionamentos\obj\Debug\relacionamentos.csprojAssemblyReference.cache
+E:\visualstudios\relacionamentos\obj\Debug\relacionamentos.csproj.CoreCompileInputs.cache
+E:\visualstudios\relacionamentos\bin\Debug\relacionamentos.exe.config
+E:\visualstudios\relacionamentos\bin\Debug\relacionamentos.exe
+E:\visualstudios\relacionamentos\bin\Debug\relacionamentos.pdb
+E:\visualstudios\relacionamentos\obj\Debug\relacionamentos.exe
+E:\visualstudios\relacionamentos\obj\Debug\relacionamentos.pdb

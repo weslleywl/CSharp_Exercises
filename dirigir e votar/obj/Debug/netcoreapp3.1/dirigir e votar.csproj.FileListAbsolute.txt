@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\bin\Debug\netcoreapp3.1\dirigir e votar.exe
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\bin\Debug\netcoreapp3.1\dirigir e votar.deps.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\bin\Debug\netcoreapp3.1\dirigir e votar.runtimeconfig.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\bin\Debug\netcoreapp3.1\dirigir e votar.runtimeconfig.dev.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\bin\Debug\netcoreapp3.1\dirigir e votar.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\bin\Debug\netcoreapp3.1\dirigir e votar.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\obj\Debug\netcoreapp3.1\dirigir e votar.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\obj\Debug\netcoreapp3.1\dirigir e votar.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\obj\Debug\netcoreapp3.1\dirigir e votar.AssemblyInfo.cs
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\obj\Debug\netcoreapp3.1\dirigir e votar.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\obj\Debug\netcoreapp3.1\dirigir e votar.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\obj\Debug\netcoreapp3.1\dirigir e votar.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dirigir e votar\obj\Debug\netcoreapp3.1\dirigir e votar.genruntimeconfig.cache
