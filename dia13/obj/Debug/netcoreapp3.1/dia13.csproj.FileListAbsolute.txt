@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\bin\Debug\netcoreapp3.1\dia13.exe
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\bin\Debug\netcoreapp3.1\dia13.deps.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\bin\Debug\netcoreapp3.1\dia13.runtimeconfig.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\bin\Debug\netcoreapp3.1\dia13.runtimeconfig.dev.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\bin\Debug\netcoreapp3.1\dia13.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\bin\Debug\netcoreapp3.1\dia13.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\obj\Debug\netcoreapp3.1\dia13.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\obj\Debug\netcoreapp3.1\dia13.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\obj\Debug\netcoreapp3.1\dia13.AssemblyInfo.cs
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\obj\Debug\netcoreapp3.1\dia13.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\obj\Debug\netcoreapp3.1\dia13.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\obj\Debug\netcoreapp3.1\dia13.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\dia13\obj\Debug\netcoreapp3.1\dia13.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\bin\Debug\netcoreapp3.1\cardapio.exe
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\bin\Debug\netcoreapp3.1\cardapio.deps.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\bin\Debug\netcoreapp3.1\cardapio.runtimeconfig.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\bin\Debug\netcoreapp3.1\cardapio.runtimeconfig.dev.json
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\bin\Debug\netcoreapp3.1\cardapio.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\bin\Debug\netcoreapp3.1\cardapio.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\obj\Debug\netcoreapp3.1\cardapio.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\obj\Debug\netcoreapp3.1\cardapio.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\obj\Debug\netcoreapp3.1\cardapio.AssemblyInfo.cs
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\obj\Debug\netcoreapp3.1\cardapio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\obj\Debug\netcoreapp3.1\cardapio.dll
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\obj\Debug\netcoreapp3.1\cardapio.pdb
+C:\Users\USER\Desktop\work-place\c#_(Resolvidos)\cardapio\obj\Debug\netcoreapp3.1\cardapio.genruntimeconfig.cache
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\bin\Debug\netcoreapp3.1\cardapio.exe
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\bin\Debug\netcoreapp3.1\cardapio.deps.json
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\bin\Debug\netcoreapp3.1\cardapio.runtimeconfig.json
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\bin\Debug\netcoreapp3.1\cardapio.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\bin\Debug\netcoreapp3.1\cardapio.dll
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\bin\Debug\netcoreapp3.1\cardapio.pdb
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\obj\Debug\netcoreapp3.1\cardapio.csprojAssemblyReference.cache
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\obj\Debug\netcoreapp3.1\cardapio.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\obj\Debug\netcoreapp3.1\cardapio.AssemblyInfo.cs
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\obj\Debug\netcoreapp3.1\cardapio.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\obj\Debug\netcoreapp3.1\cardapio.dll
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\obj\Debug\netcoreapp3.1\cardapio.pdb
+C:\Users\AMD\Desktop\Ti-agent\c#_(Resolvidos)\cardapio (undone)\obj\Debug\netcoreapp3.1\cardapio.genruntimeconfig.cache
