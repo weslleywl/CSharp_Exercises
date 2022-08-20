@@ -1,0 +1,11 @@
+C:\Users\AMD\source\repos\Cadastrar\bin\Debug\Cadastrar.exe.config
+C:\Users\AMD\source\repos\Cadastrar\bin\Debug\Cadastrar.exe
+C:\Users\AMD\source\repos\Cadastrar\bin\Debug\Cadastrar.pdb
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.csprojAssemblyReference.cache
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.Properties.Resources.resources
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.csproj.GenerateResource.cache
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.csproj.CoreCompileInputs.cache
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.exe
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.pdb
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.appDel.resources
+C:\Users\AMD\source\repos\Cadastrar\obj\Debug\Cadastrar.appcad.resources
